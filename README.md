@@ -10,7 +10,6 @@ A simple Brick Breaker game implemented in Python using the Pygame library.
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [High Scores](#high-scores)
-* [Contributing](#contributing)
 
 ## About The Project
 
