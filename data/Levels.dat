@@ -1,0 +1,131 @@
+[
+    {
+        "cnf": [
+            225,
+            230,
+            0,
+            85,
+            17.5,
+            21.0,
+            "Level 1- Just a warm up  !"
+        ],
+        "map": [
+            "ssssssssssss"
+        ]
+    },
+    {
+        "cnf": [
+            210,
+            25,
+            0,
+            85,
+            19.0,
+            24.0,
+            "Level 2 - The first gate of hell "
+        ],
+        "map": [
+            "nn          nn",
+            "rrrrrrrrrrrrrr",
+            "   nnnnnnnn   ",
+            "    nbnnbn    ",
+            "     nnnn     ",
+            "      nn      ",
+            "nrrrrrrrrrrrrn",
+            "n            n"
+        ]
+    },
+    {
+        "cnf": [
+            185,
+            150,
+            3,
+            85,
+            19.0,
+            24.0,
+            "Level 3 - The second gate of hell "
+        ],
+        "map": [
+            "rrbrrrrrrrrrrrr",
+            "nsnsnsnsnsbsnsn",
+            "sssnnnnbnnnnsss",
+            "rrrssssrssssrrr"
+        ]
+    },
+    {
+        "cnf": [
+            185,
+            140,
+            0,
+            105,
+            63.0,
+            22.0,
+            "Level 4 - The third Gate of hell "
+        ],
+        "map": [
+            "     rrrrr",
+            "     nnnnn",
+            "     bbbbb",
+            "     nnnnn     ",
+            "     bbbbb     ",
+            "     nnnnn     ",
+            "     bbbbb     "
+        ]
+    },
+    {
+        "cnf": [
+            185,
+            100,
+            0,
+            25,
+            19.0,
+            18.0,
+            "Level 5 - The fifth gate of hell"
+        ],
+        "map": [
+            "       nn       ",
+            "      nnnn      ",
+            "     nnnnnn     ",
+            "    nnnnnnnn    ",
+            "   nnnnnnnnnn   ",
+            "  nnnnnnnnnnnn  ",
+            " nnnnnnnnnnnnnn ",
+            "nnnnnnnnnnnnnnnn"
+        ]
+    },
+    {
+        "cnf": [
+            100,
+            90,
+            1,
+            85,
+            19.0,
+            21.0,
+            "Level 6 - the sixth gate of hell "
+        ],
+        "map": [
+            "nnnnnnn    bnnnnnn",
+            "nnnnnnn    nnnnnnn",
+            "nnnnnnn    nnnnnnn",
+            "nnnnnnn    nnnnnnn",
+            "nnnnnnn    nnnnnnn"
+        ]
+    },
+    {
+        "cnf": [
+            13,
+            520,
+            0,
+            155,
+            17.0,
+            31.0,
+            "Level 7 - The final Gate "
+        ],
+        "map": [
+            "r r r r r r r r r r r ",
+            " s s s s s s s s s s s",
+            "s s s s s s s s s s s ",
+            " n n n n n n n n n n n",
+            "rrrrrrrrrrrrrrrrrrrrrr"
+        ]
+    }
+]
